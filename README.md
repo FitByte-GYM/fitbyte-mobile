@@ -5,9 +5,4 @@ Commit
 listo
  Reamd
 
-edefe
-dwdwd
-wdwdwdwd
-wdwdw
-wqdqwd
-fwefwef
+ 
